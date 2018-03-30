@@ -1,0 +1,6 @@
+[submodule "Depe/ED_Subspace"]
+	path = Depe/ED_Subspace
+	url = https://github.com/HengyueLi/ED_Subspace
+[submodule "Install"]
+	path = Install
+	url = https://github.com/HengyueLi/Fortran_Install
